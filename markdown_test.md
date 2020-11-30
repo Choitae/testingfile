@@ -64,7 +64,7 @@ ___
 ![](./test/요트1.jpg)
 
 이미지 
-<img src="test/요트1.jpg"/ width = '100'>
+<img src="./test/요트1.jpg" width = '100'>
 
 
 # A 링크
